@@ -1,0 +1,48 @@
+zoom extent--> z>enter>e>enter
+zoom--> z>enter
+erase--> seç çizimi>e>enter (silme)
+line--> l>enter
+dimension-->dim>enter
+chamfer--> cha>enter
+center, diamenter> ctrl,sol tık mid between point--> iki noktayı seçip o iki noktanın tam ortasında çember çizimi
+ctrl+1--> seçili cismin alanını verir
+properties+list--> cizmin alanını vesaireyi listeler
+poliline-->pl>enter
+x>enter--> çizimi ayırır
+j>enter--> çizimi bileştirir
+center--> c>enter
+center diameter-->c>enter>d>enter
+(ana başlıklar çalıştıktan sonra alt başlıklar çalışır, komut satırınabakarak alt komutları görebiliriz)
+cismi seç> sağ tık> benzer şekilleri seç> ctrl+1> alan, radius, diameter vs değişikliği yapabilirsin
+eksik kalan şekli uzatır-->ex>enter>enter
+arc-->a>enter
+recangle-->rec>enter
+chamfer--> cha>enter
+rec>enter>c>enter>(sayı)>enter>(sayı)>enter>tıkla ekrana> sayı>enter>sayı>enter--> köşesi kırıklı şekil
+polygon-->pol
+elips-->el>enter
+şekli, bir çizi üstünde başlangıç ve bitiş noktalarında da aynı cisim olacak şekilde dizme=
+cismi seç>co>enter>cismin herhangi bir yerine tıkla>commands da array>mesafe gir>command da fit>son konumu seç
+m>enter--> multileader çoklu işlem
+stretch--> s>enter
+çizimi seç>copy(çizime tıkla)>Array(a>enter)>kaç tane olacak gir>fit(f>enter)>bitiş noktasını seç
+çizimi seç>scala>nokta seç>referancer(r>enter)>önceki noktayı ve sonrasındaki noktayı seç>sayıyı gir>enter
+tr>enter>enter>trimle>shifte basılı tutup sildiğin çizimi uzatabilirsin
+ex>enter>enter-->çizimi uzatır
+f>enter>r>enter>radius değeri>trim>enter-->trimlemeden köşeyi yuvarlar
+chamfer>angle>enter>uzunlukgir>enter>açı gir>enter--> tıklanan çizgiden uzunluğu alarak girilen açıya göre kırar
+polyline ile çizim yap>chamfer(enter)>distance>uzunlukları gir>polyline>çizime tıkla
+a>enter>c>enter>r değeri gir>açı>gir>istenilen açıya göre tıkla ya da bitiş noktasını gir--> yay oluşturmak istiyorum ama çemberin merkezini belirleyeceğim demek istiyoruz programa
+baseline--> dim>enter>b>enter
+move/copy/rotate--> mocoro
+aa>alan/area
+aa/area>enter>add area>obje>objeyi seç>enter>substract area>obje>objeyi seç>enter--> iç içe çizimlerde alan hesabı yapmada kullanılır. İçerideki objenin alanını çıkararak alan hesabını yapar.
+dc>enter--> desingcenter
+xl>enter-->sonsuz çizgi
+ext>enter-->extrim
+ml>enter>justification>top(alta atar)/bottom(üste atar)/zero(ortadan alır)>enter>noktayı seç>çizgiyi seçilen komuta göre üste alta ya da otaya atar.
+matchprop--> çizimin özelliklerini birbirine aktarmak için kullanılır.
+
+scala--> seçili çizimi girilen oranda büyütür ya da küçültür, orana göre ya da girilen sayıya göre yapar bunu
+stretch--> eklem noktasını yeşil ekran içerisine alarak yapmak istediğin işlemi gerçekleştir. Kesişim noktalarına dikkat et, seçili noktalayı/kenarı hareket ettirir, seçili noktaya dikkat et
+infer constraints == araştır, unutma, dene
